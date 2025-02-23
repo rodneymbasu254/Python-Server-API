@@ -51,5 +51,5 @@ def run(server_class = HTTPServer, handler_class = SimpleHTTPRequestHandler, por
     httpd.serve_forever()
 
 if __name__ == "__main__":
-    run(port = 5000)
+    run(port=5000)
                 
