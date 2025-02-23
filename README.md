@@ -1,2 +1,2 @@
 # Python-Server-API
- Python server fo rsending and receiving http requests
+ Python server for sending and receiving http requests
